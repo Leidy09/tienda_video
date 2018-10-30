@@ -1,0 +1,5 @@
+[29-Oct-2018 19:24:36 UTC] PHP Fatal error:  Cannot use App\Http\Request as Request because the name is already in use in /home/ubuntu/workspace/tienda/app/Http/Controllers/MainController.php on line 6
+[29-Oct-2018 19:27:46 UTC] PHP Fatal error:  Cannot use App\Http\Request as Request because the name is already in use in /home/ubuntu/workspace/tienda/app/Http/Controllers/MainController.php on line 6
+[29-Oct-2018 19:28:25 UTC] PHP Fatal error:  Cannot use App\Http\Request as Request because the name is already in use in /home/ubuntu/workspace/tienda/app/Http/Controllers/MainController.php on line 6
+[29-Oct-2018 19:30:56 UTC] PHP Fatal error:  Cannot use App\Http\Request as Request because the name is already in use in /home/ubuntu/workspace/tienda/app/Http/Controllers/MainController.php on line 6
+[29-Oct-2018 19:33:56 UTC] PHP Fatal error:  Cannot use App\Http\Request as Request because the name is already in use in /home/ubuntu/workspace/tienda/app/Http/Controllers/MainController.php on line 6
